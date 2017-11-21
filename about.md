@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an open knowledge hackticist. I love to build things, write, and play with paper. I care about open knowledge and sustainability above most else. 
 
-### More Information
+I am currently the Chairperson at [Open Knowledge Nepal](http://oknp.org) and a researcher at (Kathmandu Living Labs)[http://kathmandulivinglabs.org]. 
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Email me: khanal1990 [at] gmail [.] com 
