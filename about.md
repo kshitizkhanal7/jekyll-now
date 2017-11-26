@@ -9,3 +9,5 @@ I love to build things, write, and play with paper. I care about open knowledge 
 I am currently the Chairperson at [Open Knowledge Nepal](http://oknp.org) and a researcher at [Kathmandu Living Labs](http://kathmandulivinglabs.org). 
 
 Email me: khanal1990 [at] gmail [.] com 
+
+[CV](http://kshitizkhanal.com.np/cv) 
