@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Starting research article on Open Science Education with Household Stuff 
+title: Starting conceptual article on Open Science Education with Household Stuff 
 ---
 
 Today, I am starting to write a paper on Open Science Education using household stuff. 
 
-Project: https://github.com/kshitizkhanal7/Aerogami
+Project: [https://github.com/kshitizkhanal7/Aerogami](https://github.com/kshitizkhanal7/Aerogami)
+Paper in progress on [Google docs](https://docs.google.com/document/d/1JbhDASOAITqJLK6ad018_3v7J6JQjqqsLSDWkrhe13w/edit#)
 
 What will the paper discuss: 
 - Open Educational Resources and Open Educational Practice
