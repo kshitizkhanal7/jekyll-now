@@ -16,6 +16,9 @@ I can think of few.
 .odt, markups, LATEX. 
 
 
+Clint recommends steps to modify OERs available in different formats in this [post](https://open.bccampus.ca/2013/08/21/6-steps-to-adapting-an-open-textbook/). Based on the post, Cheryl Cuillier and her team wrote a [guide](https://press.rebus.community/otnmodify/). The efforts are commendable, but there must be a way to get things right from the beginning. 
 
+Maybe there is. The solution is simple, though it might not be easy. OER creators should grab the bull by its horn and release the source material whenever they publish the OERs. 
 
-
+To help Open Education movement on this front, I am starting a guide for OER creators and publishing platforms to release source materials. 
+Join me by editing this [collaborative document on Google docs](https://docs.google.com/document/d/1p61l9a-kHFGde88_BCCFr4ltS5xxFCgupOYBSXHF-LA/edit?usp=sharing). 
