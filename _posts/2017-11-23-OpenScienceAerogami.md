@@ -13,6 +13,7 @@ What will the paper discuss:
 - Open Educational Resources and Open Educational Practice
 - Gaps in how science is taught
 - How could those gaps be addressed
+- Constructivisionism and supporting theories for science education
 - Using household stuff to teach science
 - Developing a model to create OER for teaching science
 - Next steps for the project (testing out the model and updating)
