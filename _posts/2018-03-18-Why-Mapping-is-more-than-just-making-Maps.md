@@ -9,3 +9,4 @@ As a result of my work at KLL, reflections on my experiences, and conversations 
 Global movement, Armchair contributions
 Understanding geography, society
 The questions asked by Harold Rugg
+Mapping is not a technical activity, it is socio-technical. 
