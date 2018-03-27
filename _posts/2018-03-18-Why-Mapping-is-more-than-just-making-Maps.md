@@ -1,6 +1,16 @@
-"Map is the mirror of society." 
-As a part of my job at Kathmandu Living Labs, I use this sentence quite often. No one has ever disagreed. I have also heard of other mirrors of society like literature and cinema. All these portray something about a society. The image of a society is created in films and literature as a projection of the creator's understanding. Digital maps like OpenStreetMap, although they are made of up points, lines and polygons, are also subject to the mapmaker's projection.  
+Problem statement
+Objective
+Method
+Result and Discussion
+Conclusion
 
+Why is mapping mispercieved as a technical phenomena?
+Why is it not so? Explain how mapping is so much more.
+What does it mean? The future of maps. Current debates in mapping.
+The limitations in our understanding. 
+What next? Action.
+
+Map is a mirror of society, akin to literature or cinema. As writers and film makers project their understanding of society in their works of art, mappers project their reality in maps in the form of points, lines, ploygons, attributes or media. 
 
 
 
