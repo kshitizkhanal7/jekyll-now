@@ -28,7 +28,8 @@ The questions asked by Harold Rugg
 
 "The universe is fluid and fluent; its contents dissolve and re-form with amazing rapidity. But, after all, it is the child's own world. It has the uniqueness and completeness of his own life. He goes to school, and various studies divide and fractionize the world for him. Geography selects, it abstracts, and analyzes one set of facts, and from one particular view." John Dewey, The Child and the Curriculum.
 
-Mapping is not a technical activity, it is socio-technical.
+Dewey's definition of a map: (a map, after all, is a logical ordering of elements from psychological experiences of one or more explorers as they wander through unknown terrain) in John Dewey's The Child and the Curriculum: A Century Later Author(s): D. C. Phillips
 
+Mapping is not a technical activity, it is socio-technical.
 
 References:
