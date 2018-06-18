@@ -10,6 +10,10 @@ What does it mean? The future of maps. Current debates in mapping.
 The limitations in our understanding. 
 What next? Action.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What is the logical fallacy for mistaking Theory of Change with Impact called? Maybe we need to coin one. <a href="https://twitter.com/CDIManchester?ref_src=twsrc%5Etfw">@CDIManchester</a></p>&mdash; Kshitiz Khanal (@kshitizkhanal7) <a href="https://twitter.com/kshitizkhanal7/status/1007479072690089984?ref_src=twsrc%5Etfw">June 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Argument Structure:
 Topic: I am studying mapping as something more than just making maps
 Conceptual question: Because I want to find out if, and in what ways mapping can help develop a mapper in more ways than one 
