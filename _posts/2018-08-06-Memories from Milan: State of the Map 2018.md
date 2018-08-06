@@ -1,12 +1,11 @@
-Memories from Milan: my first global State of the Map
-
 I attended and presented at the State of the Map 2018 at Federico Politecnico de Milano in Milan, Italy on July 28-30. This was my first global State of the Map conference. I received a scholarship from the OSM Foundation, without which the trip would not have been possible. 
 
-This was my second State of the Map conference. I was one of the organizing committee members that organized State of the Map Asia 2017 in Kathmandu Nepal on September 23-24. 
+This was my second State of the Map conference. I was one of the organizing committee members that organized [State of the Map Asia 2017](http://2017.stateofthemap.asia) in Kathmandu Nepal on September 23-24. 
 
-By attending the conference, I sought to present a part my work at Kathmandu Living Labs, catch up on latest developments around different themes in OpenStreetMap platform and community, catch up with some old friends, make new friends, and visit few places in the beautiful city of Milan. 
+By attending the conference, I sought to present a part my work at [Kathmandu Living Labs](http://kathmandulivinglabs.org), catch up on latest developments around different themes in OpenStreetMap platform and community, catch up with some old friends, make new friends, and visit few places in the beautiful city of Milan.
 
-In the afternoon of first day, I spoke about the Digital Internship and Leadership program at Kathmandu Living Labs. The talk focused on the program as an alternative supplementary approach to map places in Nepal that are on the wrong side of the digital divide, but are equally vulnerable to disasters such as earthquake as the rest of Nepal. Video from the session and slides are also available. 
+In the afternoon of first day, I spoke about the Digital Internship and Leadership program at Kathmandu Living Labs. The talk focused on the program as an alternative supplementary approach to map places in Nepal that are on the wrong side of the digital divide, but are equally vulnerable to disasters such as earthquake as the rest of Nepal. Video from the session and slides are also available.
+
 
 I attended sessions on various themes throughout the conference duration. I was particularly interested in sessions about OSM community, use of machine learning to validate OSM contributions, and use of OSM data. These were closely related to the research project I am involved in. This edition of the conference was also the first one with a separate academic track for academic researchers in the community. I was particularly interested in attending the academic track to follow developments in academic research around OSM.
 
