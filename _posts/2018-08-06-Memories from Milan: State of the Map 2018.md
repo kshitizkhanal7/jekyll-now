@@ -1,5 +1,7 @@
 I attended and presented at the State of the Map 2018 at Federico Politecnico de Milano in Milan, Italy on July 28-30. This was my first global State of the Map conference. I received a scholarship from the OSM Foundation, without which the trip would not have been possible. 
 
+![Everybody](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/State_of_the_Map_2018_Milano_day_1_53.jpg/800px-State_of_the_Map_2018_Milano_day_1_53.jpg)
+
 This was my second State of the Map conference. I was one of the organizing committee members that organized [State of the Map Asia 2017](http://2017.stateofthemap.asia) in Kathmandu Nepal on September 23-24. 
 
 By attending the conference, I sought to present a part my work at [Kathmandu Living Labs](http://kathmandulivinglabs.org), catch up on latest developments around different themes in OpenStreetMap platform and community, catch up with some old friends, make new friends, and visit few places in the beautiful city of Milan.
@@ -26,6 +28,10 @@ I also made many new friends. It’s wonderful how the work of so many people wh
 
 Apart from having a productive conference, I also had a pleasant stay in the beautiful city of Milan. Having stayed in the city center, there were always few landmarks around if I wanted to visit places close by. The weather was as sunny as it could have been. This was probably the best time to visit Milan. I shared many interesting conversations in the evening with friends from the conference over delicious Italian food and satiating drinks. In the day after the conference, I had a whole day to myself to visit Milan. I visited the famous Duomo (without which no trip to Milan would be complete), San Siro stadium (the home of legendary Italian Football Clubs - Inter Milan and AC Milan, Castle Sforsezesco, the church where The Last Supper was housed (unfortunately the ticket to see the painting was already booked for the day when I reached there) and few other iconic places.
 
+![The Duomo!](https://lh3.googleusercontent.com/EVxczpTpacBHRziIPOebZPLLWFhMN3v5lma4ShfYMjakqkQXByb2khxWVcrBHEY3siEVl7mntd7q9dZc8Gi0EFkIQho0-iKwW7qewD7bUdesH_0vMNK3jvR14mynQwvV9g3Tpbgvid2g0hwx_hMxOIgqw8b0lE-r1RBc0QlhG-Bk-R51rV-f8x_iHz5f1tHFXf_Fe0AopUVbJEv0KzkRgIk5LUssaGKNccre8SUO-lv7b2dKa3s4VN_33Bp359zv7bdYYTU8OZC9xFxj_EA6K7-a1DbSp8a6IWgdISwcw0iNsQzPl1t85c86UimjOt6jy2hRZsLhL2ebKV4NI30eqMQx7lpiu_IgM9rhCnl5uHpNLBwfQQux8gLARjK4qrKWo2be18jwteAmzZwsDVQaj7k3EChvL_9oOgMEz6RNFAmmpcz9Qo3-A6ZATAj8KNEgofgp7q4_0JhfdTSgTEX9ohRjYfCGWHQLVP7L0jPQU-gkaP1H3x4Z73zOB3JmuxuIYsHx4LwYK5DHBcLehZ56zi5ZbA9-XICjGLfcV8CxtmRaYwnKOiptsAE7sGdANPP13f-D_iTs6OfyWZE5ZhZvP1xabGAZdipOX82rdwgi=w1668-h938-no)
+
 Milan is a blend of both the old and the new; the modern and the classic. The architecture on display was awe-inspiring. 
 
 I returned from Milan with memories and revitalized motivation. 
+
+Finally, I would like to thank the organizers, volunteers and friends who made this a truly great conference! Special thanks to OSMF for the scholarship, and Dorothea and Rob for helping through the process.
