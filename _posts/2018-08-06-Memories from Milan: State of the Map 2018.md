@@ -6,7 +6,7 @@ By attending the conference, I sought to present a part my work at [Kathmandu Li
 
 In the afternoon of first day, I spoke about the Digital Internship and Leadership program at Kathmandu Living Labs. The [talk](https://2018.stateofthemap.org/2018/T135-A_new_approach_to_garner_prolific_contribution_in_OpenStreetMap/) focused on the program as an alternative supplementary approach to map places in Nepal that are on the wrong side of the digital divide, but are equally vulnerable to disasters such as earthquake as the rest of Nepal. Video from the session and slides are also available.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/Cr9XTtwuvjgt" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cr9XTtwuvjg?start=15197" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 I attended sessions on various themes throughout the conference duration. I was particularly interested in sessions about OSM community, use of machine learning to validate OSM contributions, and use of OSM data. These were closely related to the research project I am involved in. This edition of the conference was also the first one with a separate academic track for academic researchers in the community. I was particularly interested in attending the academic track to follow developments in academic research around OSM.
 
