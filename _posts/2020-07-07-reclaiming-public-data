@@ -1,0 +1,15 @@
+## Public data in the hands of the public
+
+Datasets contain data, and data are made of information. For example, location of a park is information; geo-coordinate of the location is data and a collection of geo-coordinates of parks in a city is a dataset. Now, who owns each information, data and dataset? It could be no one, it could be everyone, it could be an entity that collects or manage these elements.
+
+- Corporations like Google own translation data, map data; information that should be public. I have to read more on what they exactly own. To me, it makes sense that no one owns information and data, but the owner of dataset has rights to distribute data they collect. For example, satellite companies collect images of Earth that they can sell or distribute because they created the dataset.
+
+- It is one of the outstanding issues in OSM community. Google owns dataset. But if the data is collected from other sources and organized to form another dataset, this is a whole new dataset with whole new licensing terms; This enables data from the second dataset to be distributed separately, thus allowing data in the dataset to derive the new copyright.
+
+What is the problem? Start with the problem first.
+Private corporations own data that should be public. Corporations moved swiftly to reap profits while community and state have been slow to adapt. 
+
+Solution:
+Community and/or state led parallel efforts. 
+
+Example: OpenStreetMap.
